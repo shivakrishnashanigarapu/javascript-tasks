@@ -1,0 +1,2 @@
+alert("hii javascript")
+prompt()
